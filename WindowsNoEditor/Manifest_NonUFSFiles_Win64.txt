@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-04-27T1
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-04-27T17:00:13.534Z
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2023-04-27T17:00:13.527Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-04-27T17:00:23.240Z
-Praktinis.exe	2023-05-16T17:13:08.046Z
+Praktinis.exe	2023-05-16T19:18:45.471Z
